@@ -1,2 +1,2 @@
 # easyparle
-Chatbot
+# the root directory is index.html
